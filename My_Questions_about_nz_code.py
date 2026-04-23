@@ -1,0 +1,1 @@
+'''this program ask the user some questions about NZ and about its cultur. By Julian siebein 24.04.2026'''
